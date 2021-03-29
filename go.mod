@@ -1,3 +1,3 @@
-module github.com/Junjun-Cai/logs
+module github.com/junjun-cai/logs
 
 go 1.16
